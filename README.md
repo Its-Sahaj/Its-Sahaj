@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Its-Sahaj
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on projects 
+- 👋 Hi, I’m Charanjeet Singh.
+- 👀 I’m imensely interested in Neural Networks,Deep Learning and Machine Learning as whole.
+- 🌱 I’m currently learning how to design websites and web interfaces.
+- 💞️ I’m always looking to help and create something intresting, if you are looking to collaborate on projects 
 - 📫 How to reach me ... charanjeetsingh9023@gmail.com
 
 <!---
