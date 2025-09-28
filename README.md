@@ -1,12 +1,16 @@
 <!-- Futuristic Blackhole GitHub Profile README for Its-Sahaj -->
 
-# 🌌 Welcome to My Universe  
+<div align="center">
 
-![Blackhole Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
+# 🌌 Welcome to My Universe 🌌  
+
+<img src="https://media.tenor.com/PLQ7l9DJN7gAAAAC/black-hole-space.gif" width="400" alt="Blackhole Animation">
+
+</div>
 
 ---
 
-##  I am Charanjeet Singh
+## Charanjeet Singh
 
 🚀 I love working on  
 **Machine Learning | Automation | Open Source | Futuristic Tech**  
@@ -26,8 +30,6 @@
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)  
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)  
 
-*(Add more badges for your skills!)*  
-
 ---
 
 ## 📊 Stats in the Cosmos  
@@ -44,4 +46,8 @@
 
 ---
 
-✨ *“Exploring the event horizon of ideas, one repo at a time.”* ✨
+<div align="center">
+
+✨ *“Exploring the event horizon of ideas, one repo at a time.”* ✨  
+
+</div>
