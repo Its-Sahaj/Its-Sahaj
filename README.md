@@ -1,6 +1,6 @@
-<!-- Futuristic Cyberpunk GitHub Profile README for Its-Sahaj -->
+<!-- Futuristic Dark GitHub Profile README for Its-Sahaj -->
 
-<div align="center" style="background-image: url('https://i.ibb.co/XtZ7fqD/space-bg.jpg'); background-size: cover; padding:40px; border-radius:12px;">
+<div align="center" style="background-color:#000000; padding:40px; border-radius:12px;">
 
 # <span style="color:#00FFFF">🌌 Welcome to My Universe 🌌</span>
 
