@@ -2,9 +2,9 @@
 
 <div style="background-color:#0d1117; padding:40px; border-radius:12px; color:#c9d1d9">
 
-# Its-Sahaj
+## Charanjeet Singh
 
-Hello! I'm a Computer Science student and aspiring developer.  
+Hello! I'm an AI/ML Engineer.  
 I enjoy working on **Machine Learning, Automation, and Open Source projects**.  
 Currently learning **Quantum Computing & Next-Gen AI**.
 
