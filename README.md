@@ -1,9 +1,9 @@
 # Hi there, I'm Charanjeet Singh 👋  
 
 💻 I’m an AI/ML Engineer  
-🚀 I love working on anything that gives me challange and learning opportunities.
-🌱 Currently learning to build AI Agents.
-⚡ Fun fact: I think I can sleep anyehere.
+🚀 I love working on anything that gives me challange and learning opportunities
+🌱 Currently learning to build AI Agents
+⚡ Fun fact: I think I can sleep anyehere
 
 ---
 
