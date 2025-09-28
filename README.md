@@ -4,7 +4,7 @@
 
 # <span style="color:#00FFFF">🌌 Welcome to My Universe 🌌</span>  
 
-<img src="https://media.tenor.com/PLQ7l9DJN7gAAAAC/black-hole-space.gif" width="400" alt="Blackhole Animation">
+<img src="https://www.freepik.com/free-photo/rendering-abstract-futuristic-background-with-glowing-neon-blue-orange-lights_10860238.htm#fromView=keyword&page=1&position=2&uuid=c6b65e6d-adfc-47ad-858a-04268a78a48c&query=Technology+wallpaper">
 
 </div>
 
