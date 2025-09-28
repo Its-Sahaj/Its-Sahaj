@@ -52,7 +52,7 @@ Currently learning **Quantum Computing & Next-Gen AI**.
 
 ---
 
-<div style="background-color:#0d1117; padding:20px; border-radius:12px; color:#c9d1d9" align="center">
+<div style="background-color:#0d1117; padding:20px; border-radius:12px; color:#c9d1d9" align="left">
 
 ## 🌍 Connect With Me
 
